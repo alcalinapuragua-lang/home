@@ -1,8 +1,0 @@
-
-{
-  "name": "Alcalina Pura - Simulador Purific",
-  "description": "App oficial da Alcalina Pura, franqueada Purific. Compare a economia entre galões de água e purificadores de água alcalina.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
